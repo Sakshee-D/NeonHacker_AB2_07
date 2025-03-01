@@ -10,5 +10,34 @@
   },
   "devDependencies": {
     "vite": "^6.2.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "esbuild": "^0.25.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.11.0",
+    "nanoid": "^3.3.8",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.3",
+    "rollup": "^4.34.9",
+    "source-map-js": "^1.2.1",
+    "stripe": "^17.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakshee-D/NeonHacker_AB2_07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakshee-D/NeonHacker_AB2_07/issues"
+  },
+  "homepage": "https://github.com/Sakshee-D/NeonHacker_AB2_07#readme"
 }
